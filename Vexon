@@ -1,8 +1,8 @@
 -- 汉化
 -- 自动生成的汉化脚本
 
-local Translations = {["最强战场[勺子汉化]"] = "Vexon",
-    [""] = "",
+local Translations = {["最强战场[勺子汉化]"] = "Vexon HUB",
+    ["汉化群1033792138"] = "Vexon HUB",
     [""] = "",
     [""] = "",
     [""] = "",
